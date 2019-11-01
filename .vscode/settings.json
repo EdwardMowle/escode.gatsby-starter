@@ -1,0 +1,21 @@
+{
+    "editor.detectIndentation": false,
+    "editor.tabSize": 2,
+    "editor.insertSpaces": true,
+    "beautify.ignore": ["**/*.js"],
+    "editor.formatOnSave": false,
+    "eslint.autoFixOnSave": true,
+    "[javascript]": {
+        "editor.formatOnSave": true
+    },
+    "peacock.color": "#663399",
+    "peacock.affectTitleBar": true,
+    "peacock.affectActivityBar": false,
+    "peacock.affectStatusBar": false,
+    "workbench.colorCustomizations": {
+      "titleBar.activeBackground": "#663399",
+      "titleBar.inactiveBackground": "#66339999",
+      "titleBar.activeForeground": "#e7e7e7",
+      "titleBar.inactiveForeground": "#e7e7e799"
+    }
+}
